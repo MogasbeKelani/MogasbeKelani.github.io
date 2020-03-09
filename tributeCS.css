@@ -1,0 +1,28 @@
+h1 {
+  color: green;
+  font-family:cursive,fantasy;
+  text-align: center;
+}
+body{
+  background-color:rgb(255, 240, 179);
+}
+p {
+  font-family: monospace;
+}
+.cent {
+  text-align:center;
+  display:block;
+}
+.resize {
+
+  width:200px;
+  max-width:100%;
+  border-color: green;
+  border-width: 5px;
+  border-style:dashed;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  height:auto;
+  display: block;
+}
