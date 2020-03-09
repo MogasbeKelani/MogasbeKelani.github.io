@@ -9,10 +9,14 @@ body{
 p {
   font-family: monospace;
 }
+.cent {
+  text-align:center;
+  display:block;
+}
 .resize {
+
   width:200px;
-  max-width: 100%;
-  max-height: 100%;
+  max-width:100%;
   border-color: green;
   border-width: 5px;
   border-style:dashed;
